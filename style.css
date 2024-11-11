@@ -1,0 +1,188 @@
+<html>
+ <head>
+  <title>
+   Desktop Background
+  </title>
+  <style>
+   body {
+            margin: 0;
+            padding: 0;
+            background: url('https://placehold.co/1366x768') no-repeat center center fixed;
+            background-size: cover;
+            font-family: Arial, sans-serif;
+        }
+        .icon {
+            position: absolute;
+            width: 50px;
+            height: 50px;
+        }
+        .icon img {
+            width: 100%;
+            height: 100%;
+        }
+        .icon-text {
+            text-align: center;
+            color: white;
+            font-size: 12px;
+        }
+  </style>
+ </head>
+ <body>
+  <div class="icon" style="top: 20px; left: 20px;">
+   <img alt="Recycle Bin Icon" height="50" src="https://storage.googleapis.com/a1aa/image/JkIIwrrWvyJdBtuuhcKY91tlfMHbQYH2qkd8TgufRbZgBxvTA.jpg" width="50"/>
+   <div class="icon-text">
+    Recycle Bin
+   </div>
+  </div>
+  <div class="icon" style="top: 20px; left: 90px;">
+   <img alt="Google Chrome Icon" height="50" src="https://storage.googleapis.com/a1aa/image/G73wQCUTKQakJRu77SXyJYw7cVf7ryTqkGsaSihqC1tog43JA.jpg" width="50"/>
+   <div class="icon-text">
+    Google Chrome
+   </div>
+  </div>
+  <div class="icon" style="top: 20px; left: 160px;">
+   <img alt="Roblox Studio Icon" height="50" src="https://storage.googleapis.com/a1aa/image/lYUNeoCVKMx6Ci2l2Cy1dHqTbF7jPmCNGWl35mWQ1mZmg43JA.jpg" width="50"/>
+   <div class="icon-text">
+    Roblox Studio
+   </div>
+  </div>
+  <div class="icon" style="top: 90px; left: 20px;">
+   <img alt="PDF-XChange Editor Icon" height="50" src="https://storage.googleapis.com/a1aa/image/0BYbxrlYDXL4P13b0nqbUSSjtIW5qMY4UlKfqBwEuwhjg43JA.jpg" width="50"/>
+   <div class="icon-text">
+    PDF-XChange Editor
+   </div>
+  </div>
+  <div class="icon" style="top: 90px; left: 90px;">
+   <img alt="OBS Studio Icon" height="50" src="https://storage.googleapis.com/a1aa/image/lGksoFIrstYSOViHIwZhmXNLTF5QKfVe6GqiSJH65dgVBxvTA.jpg" width="50"/>
+   <div class="icon-text">
+    OBS Studio
+   </div>
+  </div>
+  <div class="icon" style="top: 90px; left: 160px;">
+   <img alt="PlayGTAV Shortcut Icon" height="50" src="https://storage.googleapis.com/a1aa/image/1yeNfdDeKcHRKpG01LciIlSfuYfIqGhmm4e63okCeN7Hyg43JA.jpg" width="50"/>
+   <div class="icon-text">
+    PlayGTAV Shortcut
+   </div>
+  </div>
+  <div class="icon" style="top: 160px; left: 20px;">
+   <img alt="New DOC Document Icon" height="50" src="https://storage.googleapis.com/a1aa/image/LvhE4OMkkRZKBla83cKZ8ZvOd9Wf9SGiOIM1KOfp0zsOBxvTA.jpg" width="50"/>
+   <div class="icon-text">
+    New DOC Document
+   </div>
+  </div>
+  <div class="icon" style="top: 160px; left: 90px;">
+   <img alt="Revo Uninstaller Icon" height="50" src="https://storage.googleapis.com/a1aa/image/DgAawZM5KSacNt0e5Hkyibexanf7IyjOzbdbWcnLK5LRCifOB.jpg" width="50"/>
+   <div class="icon-text">
+    Revo Uninstaller
+   </div>
+  </div>
+  <div class="icon" style="top: 160px; left: 160px;">
+   <img alt="Total Commander Icon" height="50" src="https://storage.googleapis.com/a1aa/image/xAWCGgn6ZqbmMlDDMAboY4iBR2413beNmJlBiIHrqOZhg43JA.jpg" width="50"/>
+   <div class="icon-text">
+    Total Commander
+   </div>
+  </div>
+  <div class="icon" style="top: 230px; left: 20px;">
+   <img alt="HoYoPlay Icon" height="50" src="https://storage.googleapis.com/a1aa/image/AAcPYn6JXJJYBZEj3PLqw5RrU6MVH5zIH6lfDPDK3Qlng43JA.jpg" width="50"/>
+   <div class="icon-text">
+    HoYoPlay
+   </div>
+  </div>
+  <div class="icon" style="top: 230px; left: 90px;">
+   <img alt="TeamViewer Icon" height="50" src="https://storage.googleapis.com/a1aa/image/KKQepufyfhW3jJeZyURytTkq3Rzi2Eb7BkVaq1aKfuXeYQ87E.jpg" width="50"/>
+   <div class="icon-text">
+    TeamViewer
+   </div>
+  </div>
+  <div class="icon" style="top: 230px; left: 160px;">
+   <img alt="Visual Studio Code Icon" height="50" src="https://storage.googleapis.com/a1aa/image/H3GgrD7m64plMRv5Z9YdjX2t6NHYmPCvw7Iv7sJ6Qx2XQ87E.jpg" width="50"/>
+   <div class="icon-text">
+    Visual Studio Code
+   </div>
+  </div>
+  <div class="icon" style="top: 300px; left: 20px;">
+   <img alt="Process Lasso Icon" height="50" src="https://storage.googleapis.com/a1aa/image/kbucaf2zrjT0SKf1G9xuSGI4IJyzWbEDZJ6r0FRG3WqbBxvTA.jpg" width="50"/>
+   <div class="icon-text">
+    Process Lasso
+   </div>
+  </div>
+  <div class="icon" style="top: 300px; left: 90px;">
+   <img alt="CapCut Icon" height="50" src="https://storage.googleapis.com/a1aa/image/GptSMX3SfQSeWE2Bwz7I8MA56l4WdUYmiYCEZ8WiSfNDDifOB.jpg" width="50"/>
+   <div class="icon-text">
+    CapCut
+   </div>
+  </div>
+  <div class="icon" style="top: 300px; left: 160px;">
+   <img alt="AudioRelay Icon" height="50" src="https://storage.googleapis.com/a1aa/image/iFyVKNQzZzqSEV7fthqdD3ZN9JHHlKH13InC3fdAhZtdBxvTA.jpg" width="50"/>
+   <div class="icon-text">
+    AudioRelay
+   </div>
+  </div>
+  <div class="icon" style="top: 370px; left: 20px;">
+   <img alt="Cheat Engine Icon" height="50" src="https://storage.googleapis.com/a1aa/image/CapbzRqWDP5vOpeCpaURdLbae9vnPu3LJGeJDHUxqte7FEfdC.jpg" width="50"/>
+   <div class="icon-text">
+    Cheat Engine
+   </div>
+  </div>
+  <div class="icon" style="top: 370px; left: 90px;">
+   <img alt="StarRail Shortcut Icon" height="50" src="https://storage.googleapis.com/a1aa/image/eHuC1CW50r20SiZjPOCeiZMzAxPBXejY263LUMrdsrGwCifOB.jpg" width="50"/>
+   <div class="icon-text">
+    StarRail Shortcut
+   </div>
+  </div>
+  <div class="icon" style="top: 370px; left: 160px;">
+   <img alt="Avast Free Antivirus Icon" height="50" src="https://storage.googleapis.com/a1aa/image/xpy4bfSgFk0oM6Z4Sy60Gul0G6mw1raXox5Glg338lrlg43JA.jpg" width="50"/>
+   <div class="icon-text">
+    Avast Free Antivirus
+   </div>
+  </div>
+  <div class="icon" style="top: 440px; left: 20px;">
+   <img alt="DroidCam Icon" height="50" src="https://storage.googleapis.com/a1aa/image/nFDtrt4I5478D9kkbWHkoZkCwghBtkY1fneRKy3SSU5GBxvTA.jpg" width="50"/>
+   <div class="icon-text">
+    DroidCam
+   </div>
+  </div>
+  <div class="icon" style="top: 440px; left: 90px;">
+   <img alt="Bloxstrap Icon" height="50" src="https://storage.googleapis.com/a1aa/image/vNJoh6urU4Z4GlQGNTOKaaIfJ5L0bNtRckvFnnLTxf5EBxvTA.jpg" width="50"/>
+   <div class="icon-text">
+    Bloxstrap
+   </div>
+  </div>
+  <div class="icon" style="top: 440px; left: 160px;">
+   <img alt="CCleaner Icon" height="50" src="https://storage.googleapis.com/a1aa/image/HjjoC7ub0PrcPhMoMTMzJtvvttl4WSefXWQ9tkPKQTIUBxvTA.jpg" width="50"/>
+   <div class="icon-text">
+    CCleaner
+   </div>
+  </div>
+  <div class="icon" style="top: 510px; left: 20px;">
+   <img alt="Mirillis Action! Icon" height="50" src="https://storage.googleapis.com/a1aa/image/GyjTS0vnEQbRMtUqki9XWPxsVulfvxuSWaniVOHy8Wbtg43JA.jpg" width="50"/>
+   <div class="icon-text">
+    Mirillis Action!
+   </div>
+  </div>
+  <div class="icon" style="top: 510px; left: 90px;">
+   <img alt="Launcher Shortcut Icon" height="50" src="https://storage.googleapis.com/a1aa/image/8BncZOteHPXyfExWRhohgclYheCmfzvhmqzvbLITSTBDFEfdC.jpg" width="50"/>
+   <div class="icon-text">
+    Launcher Shortcut
+   </div>
+  </div>
+  <div class="icon" style="top: 510px; left: 160px;">
+   <img alt="FL Studio 21 Icon" height="50" src="https://storage.googleapis.com/a1aa/image/VAKCyeGJfivdN0McKvnutxTXmL73HXFe5le6Uw4Sf4ReVQ87E.jpg" width="50"/>
+   <div class="icon-text">
+    FL Studio 21
+   </div>
+  </div>
+  <div class="icon" style="top: 580px; left: 20px;">
+   <img alt="Roblox Player Icon" height="50" src="https://storage.googleapis.com/a1aa/image/y5sEnxn4KwJ7Pxh66ysZ7fgCobqIsG6NrNerX2mUu7VKBxvTA.jpg" width="50"/>
+   <div class="icon-text">
+    Roblox Player
+   </div>
+  </div>
+  <div class="icon" style="top: 580px; left: 90px;">
+   <img alt="edraw max Icon" height="50" src="https://storage.googleapis.com/a1aa/image/oWMlonarwG7hA9xTRVVXwU28caziKQE3kuljqKDTGMTRQ87E.jpg" width="50"/>
+   <div class="icon-text">
+    edraw max
+   </div>
+  </div>
+ </body>
+</html>
